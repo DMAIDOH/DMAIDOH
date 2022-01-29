@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deborah
+- 👋 Hi, I’m Deborah. A Computer Science major and Math minor at the University of Richmond
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning full stack web development
 
